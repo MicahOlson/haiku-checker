@@ -16,7 +16,7 @@ const path = require('path');
     plugins: [
       new CleanWebpackPlugin(),
       new HtmlWebpackPlugin({
-        title: 'Change Me',
+        title: 'Haiku Checker',
         template: './src/index.html',
         inject: 'body'
       }),
