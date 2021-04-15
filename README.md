@@ -5,6 +5,7 @@
 [Epicodus](https://www.epicodus.com/) > [React](https://www.learnhowtoprogram.com/react) > [Week 1, Lesson 32](https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/build-your-own-rpg-haiku-checker-two-day-project)  
 \
 Date created: 04/14/2021
+Updated on: 04/15/2021
 
 ## Authors and Contributors
 Authored by: Micah L. Olson and Zack Rutledge
